@@ -1,0 +1,8 @@
+
+ I had learn how to use :pwd 
+                         ls
+			 ls -alt
+ Also how you create a file
+and how to create  a folder
+and how to save a file inside the folder 
+how to use cd. and how to find files and folders. 
